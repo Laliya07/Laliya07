@@ -1,9 +1,13 @@
 ##                                                                                        Hello😄, I'm Farjana Liya.
 
 .🔭 I’m currently working on my own small projects
+
 .🌱 I’m currently learning Python,HTML,CSS
+
 .📫 How to reach me afarjanaliya0701@gmail.com
+
 .⚡ Fun fact addicted to Tea and Chocolate
+
 <!--
 **Laliya07/Laliya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
