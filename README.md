@@ -1,4 +1,4 @@
-##                                                                                        Hi there 😄 I'm Farjana Liya.
+##                                                                                        Hello😄, I'm Farjana Liya.
 
 <!--
 **Laliya07/Laliya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
