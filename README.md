@@ -4,7 +4,7 @@
 
 .🌱 I’m currently learning Python,HTML,CSS
 
-.📫 How to reach me afarjanaliya0701@gmail.com
+.📫 How to reach me farjanaliya0701@gmail.com
 
 .⚡ Fun fact addicted to Tea and Chocolate
 
